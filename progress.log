@@ -1,1 +1,14 @@
 [2016-08-20 12:52:52] START
+[2016-08-20 14:50:08] EDIT Minotauro/controllers/default.py: -2
+[2016-08-20 14:50:15] EDIT Minotauro/controllers/default.py: 0
+[2016-08-20 14:50:18] EDIT Minotauro/controllers/default.py: 0
+[2016-08-20 14:50:23] EDIT Minotauro/controllers/default.py: 0
+[2016-08-20 14:50:38] EDIT Minotauro/controllers/default.py: 0
+[2016-08-20 16:06:21] CREATE info.html/layout.html: 0
+[2016-08-20 16:06:46] DELETE Minotauro/views/info.html/layout.html: -3
+[2016-08-20 16:07:34] CREATE informar.html: 0
+[2016-08-20 16:10:19] CREATE informar.py: 0
+[2016-08-20 16:10:46] CREATE informar/info.html: 0
+[2016-08-20 16:11:11] DELETE Minotauro/views/informar.html: -3
+[2016-08-20 16:12:05] EDIT Minotauro/controllers/informar.py: 0
+[2016-08-20 16:18:14] EDIT Minotauro/controllers/default.py: -5
